@@ -48,7 +48,7 @@
 <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=aws" title="AWS" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="100" style="margin: 0 15px;" /> &nbsp;
-![Scrum](https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_alliance_logo.png){: height="40px"}
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_alliance_logo.png" title="Scrum" height="40" style="margin-right:5px;" />
 
 ---
 
