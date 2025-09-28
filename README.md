@@ -1,7 +1,7 @@
-je veux modifier le design des competences tech ici : # 👋 Bonjour, je suis Ilef Kristou  
+# 👋 Bonjour, je suis Ilef Kristou  
 
 🎓 Étudiante en dernière année du cycle ingénieur en **Génie Logiciel** à la Faculté des Sciences de Tunis.  
-💻 Passionnée par le **développement Full-Stack**, le **Cloud** et l’**IA**.  
+💻 Passionnée par le **développement Full-Stack**, le **Cloud** et l'**IA**.  
 🚀 Curieuse, motivée et toujours à la recherche d'opportunités professionnelles pour progresser et contribuer à des projets innovants.  
 
 ---
@@ -9,41 +9,37 @@ je veux modifier le design des competences tech ici : # 👋 Bonjour, je suis Il
 ## 🛠️ Compétences Techniques
 
 **Langages :**  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat) 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat) 
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
-
+<img src="https://skillicons.dev/icons?i=java" title="Java" height="28" />
+<img src="https://skillicons.dev/icons?i=python" title="Python" height="28" />
+<img src="https://skillicons.dev/icons?i=c" title="C" height="28" />
+<img src="https://skillicons.dev/icons?i=cpp" title="C++" height="28" />
+<img src="https://skillicons.dev/icons?i=r" title="R" height="28" />
 
 **Frontend:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=angular" title="Angular" height="28" />
+<img src="https://skillicons.dev/icons?i=react" title="React" height="28" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" height="28" />
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" height="28" />
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="28" />
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="28" />
 
 **Backend:**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" height="28" />
+<img src="https://skillicons.dev/icons?i=laravel" title="Laravel" height="28" />
+<img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" height="28" />
 
 **Bases de données:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="28" />
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="28" />
 
 **Outils & Méthodologies :**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) 
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white&style=flat) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat) 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) 
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat) 
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat)
-
+<img src="https://skillicons.dev/icons?i=git" title="Git" height="28" />
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" height="28" />
+<img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="28" />
+<img src="https://skillicons.dev/icons?i=aws" title="AWS" height="28" />
+<img src="https://skillicons.dev/icons?i=postman" title="Postman" height="28" />
+<img src="https://skillicons.dev/icons?i=jira" title="Jira" height="28" />
+<img src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat" title="Scrum" height="28" />
 
 ---
 
@@ -51,6 +47,5 @@ je veux modifier le design des competences tech ici : # 👋 Bonjour, je suis Il
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilef-kristou-99374a302/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilef.kristou@etudiant-fst.utm.tn)
-
 
 ---
