@@ -10,8 +10,8 @@
 
 **Langages :**  
 **Langages :**  
-<img src="https://skillicons.dev/icons?i=java" title="Java" height="40"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=python" title="Python" height="40"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=java" title="Java" height="50"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=python" title="Python" height="60"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=c" title="C" height="40"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=r" title="R" height="40"/>
