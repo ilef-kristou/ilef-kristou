@@ -7,11 +7,22 @@
 ---
 
 ## 🛠️ Compétences Techniques
-
 ## 🛠️ Compétences Techniques
 
 ### 💻 **Langages de Programmation**
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24"> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" height="24"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="24"> <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" height="24">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,r,ts,js" />
+
+### 🎨 **Frontend & Design**  
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,ts,js" />
+
+### ⚙️ **Backend & Frameworks**
+<img src="https://skillicons.dev/icons?i=spring,laravel,nestjs,nodejs" />
+
+### 🗄️ **Bases de Données**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+### 🛠️ **Outils & DevOps**
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,postman,docker" />
 
 ### 🎨 **Frontend & Design**
 <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="24"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="24"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="24"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="24">
