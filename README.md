@@ -48,7 +48,7 @@
 <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=aws" title="AWS" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="100" style="margin: 0 15px;" /> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_alliance_logo.png" title="Scrum" height="100" style="margin: 0 15px;" />
+<img src="[https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_alliance_logo.png](https://www.bing.com/images/search?view=detailV2&ccid=Wz1iPL1X&id=958BD4A3EE8F4AEC1197F5610E8B7B7FD78DF0CB&thid=OIP.Wz1iPL1XnHyC-uXxNoGBOgHaIP&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f71%2f26%2fcd%2f7126cdceaae0b3225e4af95d593a7236.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5b3d623cbd579c7c82fae5f13681813a%3frik%3dy%252fCN1397iw5h9Q%26pid%3dImgRaw%26r%3d0&exph=680&expw=611&q=logo+scrum&FORM=IRPRST&ck=D418507C3695DD350AA321A990C9BD40&selectedIndex=12&itb=1)" title="Scrum" height="100" style="margin: 0 15px;" />
 
 ---
 
