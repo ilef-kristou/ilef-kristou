@@ -20,19 +20,19 @@
 <br>
 
 **Frontend:**  
-<img src="https://skillicons.dev/icons?i=angular" title="Angular" height="100" style="margin: 0 15px;" />
-<img src="https://skillicons.dev/icons?i=react" title="React" height="100" style="margin: 0 15px;" />
-<img src="https://skillicons.dev/icons?i=html" title="HTML5" height="100" style="margin: 0 15px;" />
-<img src="https://skillicons.dev/icons?i=css" title="CSS3" height="100" style="margin: 0 15px;" />
-<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="100" style="margin: 0 15px;" />
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="100" style="margin: 0 15px;" />
+<img src="https://skillicons.dev/icons?i=angular" title="Angular" height="100" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=react" title="React" height="100" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" height="100" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" height="100" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="100" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="100" style="margin: 0 15px;" /> &nbsp;
 
 <br>
 
 **Backend:**  
-<img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" height="100" style="margin: 0 15px;" />
-<img src="https://skillicons.dev/icons?i=laravel" title="Laravel" height="100" style="margin: 0 15px;" />
-<img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" height="100" style="margin: 0 15px;" />
+<img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" height="100" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=laravel" title="Laravel" height="100" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" height="100" style="margin: 0 15px;" /> &nbsp;
 
 <br>
 
