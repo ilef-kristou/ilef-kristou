@@ -8,11 +8,13 @@
 
 ## 🛠️ Compétences Techniques
 
+## 🛠️ Compétences Techniques
+
 ### 💻 **Langages de Programmation**
-`Java` `Python` `C` `C++` `R` `TypeScript` `JavaScript`
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24"> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" height="24"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="24"> <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" height="24">
 
 ### 🎨 **Frontend & Design**
-`Angular` `React` `HTML5` `CSS3` `TypeScript` `JavaScript`
+<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="24"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="24"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="24"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="24">
 
 ### ⚙️ **Backend & Frameworks**
 `Spring Boot` `Laravel` `NestJS` `Node.js`
