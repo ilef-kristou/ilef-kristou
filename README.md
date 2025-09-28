@@ -49,7 +49,6 @@
 <img src="https://skillicons.dev/icons?i=aws" title="AWS" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=jira" title="Jira" height="100" style="margin: 0 15px;" />
-<img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" title="Scrum" height="40"/> &nbsp;
 
 ---
 
