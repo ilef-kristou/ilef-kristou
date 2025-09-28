@@ -8,7 +8,7 @@
 
 ## 🛠️ Compétences Techniques
 
-### 🟣 <span style="font-size:1.3em; font-weight:bold;">Langages</span>
+### 💻 <span style="font-size:1.3em; font-weight:bold;">Langages</span>
 
 <img src="https://skillicons.dev/icons?i=java" title="Java" height="100"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=python" title="Python" height="100"/> &nbsp;
@@ -18,7 +18,7 @@
 
 <br>
 
-### 🔵 <span style="font-size:1.3em; font-weight:bold;">Frontend</span>
+### 🎨 <span style="font-size:1.3em; font-weight:bold;">Frontend</span>
 
 <img src="https://skillicons.dev/icons?i=angular" title="Angular" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=react" title="React" height="100" style="margin: 0 15px;" /> &nbsp;
@@ -29,7 +29,7 @@
 
 <br>
 
-### 🟢 <span style="font-size:1.3em; font-weight:bold;">Backend</span>
+### ⚙️ <span style="font-size:1.3em; font-weight:bold;">Backend</span>
 
 <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" height="100" style="margin: 0 15px;" /> &nbsp;
@@ -37,14 +37,14 @@
 
 <br>
 
-### 🟡 <span style="font-size:1.3em; font-weight:bold;">Bases de données</span>
+### 🗄️ <span style="font-size:1.3em; font-weight:bold;">Bases de données</span>
 
 <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="100" style="margin: 0 15px;" /> &nbsp;
 
 <br>
 
-### 🟠 <span style="font-size:1.3em; font-weight:bold;">Outils & Méthodologies</span>
+### 🛠️ <span style="font-size:1.3em; font-weight:bold;">Outils & Méthodologies</span>
 
 <img src="https://skillicons.dev/icons?i=git" title="Git" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="100" style="margin: 0 15px;" /> &nbsp;
