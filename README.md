@@ -2,7 +2,7 @@
 
 🎓 Étudiante en dernière année du cycle ingénieur en **Génie Logiciel** à la Faculté des Sciences de Tunis.  
 💻 Passionnée par le **développement Full-Stack**, le **Cloud** et l’**IA**.  
-🚀 Curieuse, motivée et toujours prête à relever de nouveaux défis.  
+🚀 Curieuse, motivée et toujours à la recherche d'opportunités professionnelles pour progresser et contribuer à des projets innovants.  
 
 ---
 
