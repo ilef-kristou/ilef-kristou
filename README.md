@@ -28,6 +28,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
+**Outils & Méthodologies :**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) 
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat)
+
 ---
 
 ## 🌐 Contact
