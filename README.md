@@ -9,31 +9,30 @@
 ## 🛠️ Compétences Techniques
 ## 🛠️ Compétences Techniques
 
+## 🛠️ Compétences Techniques
+
 ### 💻 **Langages de Programmation**
-<div>
-  <img src="https://skillicons.dev/icons?i=java" title="Java" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" title="Python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" title="C" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40"/>
-  <img src="https://skillicons.dev/icons?i=r" title="R" height="40"/>
-</div>
-<div>
-  <span>Java</span> • <span>Python</span> • <span>C</span> • <span>C++</span> • <span>R</span>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" title="Java" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="45"/>
+  <img src="https://skillicons.dev/icons?i=r" title="R" height="45"/>
+  <br>
+  <small><strong>Java • Python • C • C++ • R</strong></small>
 </div>
 
 ### 🎨 **Frontend & Design**
-<div>
-  <img src="https://skillicons.dev/icons?i=angular" title="Angular" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" title="React" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="45"/>
+  <br>
+  <small><strong>Angular • React • HTML5 • CSS3 • TypeScript • JavaScript</strong></small>
 </div>
-<div>
-  <span>Angular</span> • <span>React</span> • <span>HTML5</span> • <span>CSS3</span> • <span>TypeScript</span> • <span>JavaScript</span>
-</div>
-
 ### ⚙️ **Backend & Frameworks**
 <div>
   <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" height="40"/>
