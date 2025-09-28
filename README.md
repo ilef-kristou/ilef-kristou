@@ -48,7 +48,7 @@
 ---
 
 ## 🌐 Me retrouver en ligne
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ilef-kristou-99374a302/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/ilef-kristou-99374a302/](https://www.linkedin.com/in/ilef-kristou-99374a302/))  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/ilef-kristou)  
 
 ---
