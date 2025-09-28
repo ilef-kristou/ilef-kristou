@@ -9,37 +9,37 @@
 ## 🛠️ Compétences Techniques
 
 **Langages :**  
-<img src="https://skillicons.dev/icons?i=java" title="Java" height="28" />
-<img src="https://skillicons.dev/icons?i=python" title="Python" height="28" />
-<img src="https://skillicons.dev/icons?i=c" title="C" height="28" />
-<img src="https://skillicons.dev/icons?i=cpp" title="C++" height="28" />
-<img src="https://skillicons.dev/icons?i=r" title="R" height="28" />
+<img src="https://skillicons.dev/icons?i=java" title="Java" height="40" />
+<img src="https://skillicons.dev/icons?i=python" title="Python" height="40" />
+<img src="https://skillicons.dev/icons?i=c" title="C" height="40" />
+<img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40" />
+<img src="https://skillicons.dev/icons?i=r" title="R" height="40" />
 
 **Frontend:**  
-<img src="https://skillicons.dev/icons?i=angular" title="Angular" height="28" />
-<img src="https://skillicons.dev/icons?i=react" title="React" height="28" />
-<img src="https://skillicons.dev/icons?i=html" title="HTML5" height="28" />
-<img src="https://skillicons.dev/icons?i=css" title="CSS3" height="28" />
-<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="28" />
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="28" />
+<img src="https://skillicons.dev/icons?i=angular" title="Angular" height="40" />
+<img src="https://skillicons.dev/icons?i=react" title="React" height="40" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" height="40" />
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" height="40" />
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="40" />
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40" />
 
 **Backend:**  
-<img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" height="28" />
-<img src="https://skillicons.dev/icons?i=laravel" title="Laravel" height="28" />
-<img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" height="28" />
+<img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" height="40" />
+<img src="https://skillicons.dev/icons?i=laravel" title="Laravel" height="40" />
+<img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" height="40" />
 
 **Bases de données:**  
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="28" />
-<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="28" />
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40" />
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="40" />
 
 **Outils & Méthodologies :**  
-<img src="https://skillicons.dev/icons?i=git" title="Git" height="28" />
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" height="28" />
-<img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="28" />
-<img src="https://skillicons.dev/icons?i=aws" title="AWS" height="28" />
-<img src="https://skillicons.dev/icons?i=postman" title="Postman" height="28" />
-<img src="https://skillicons.dev/icons?i=jira" title="Jira" height="28" />
-<img src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat" title="Scrum" height="28" />
+<img src="https://skillicons.dev/icons?i=git" title="Git" height="40" />
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40" />
+<img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="40" />
+<img src="https://skillicons.dev/icons?i=aws" title="AWS" height="40" />
+<img src="https://skillicons.dev/icons?i=postman" title="Postman" height="40" />
+<img src="https://skillicons.dev/icons?i=jira" title="Jira" height="40" />
+<img src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat" title="Scrum" height="40" />
 
 ---
 
