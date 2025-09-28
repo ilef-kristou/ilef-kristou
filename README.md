@@ -38,19 +38,12 @@
 
 ---
 
-## 💼 Expériences
-- **Stagiaire Full-Stack | TAC-TIC (2025)**  
-  Développement d’une application web full-stack (React.js, Laravel, MySQL) pour la gestion d’un centre de formation.  
+## 🌐 Contact
 
-- **Développeuse Frontend | Colibris (2024-2025)**  
-  Développement frontend (React.js) d’une plateforme e-commerce dédiée à l’économie circulaire.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Votre URL LinkedIn])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilef.kristou@etudiant-fst.utm.tn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)]([Votre URL Portfolio])
 
----
-
-## 🚀 Projets
-- **Plateforme de réservation et rating de restaurants** (Angular, Spring Boot, JWT)  
-- **Déploiement d’une architecture 3-Tiers Cloud AWS** (EC2, RDS, S3, Auto-scaling, CloudWatch)  
-- **Détection d’anomalies et classification multi-classes** (Python, TensorFlow/Keras, Scikit-learn)  
 
 ---
 
