@@ -48,7 +48,7 @@
 <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=aws" title="AWS" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="100" style="margin: 0 15px;" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=jira" title="Jira" height="100" style="margin: 0 15px;" />
+<img src="https://skillicons.dev/icons?i=jira" title="Jira" height="100" style="margin: 0 15px;" /> 
 <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat" title="Scrum" height="100" style="margin: 0 15px;" /> &nbsp;
 
 ---
