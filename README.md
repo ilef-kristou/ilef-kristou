@@ -18,7 +18,7 @@
 
 <br>
 
-### 🎨 <span style="font-size:1.3em; font-weight:bold;">Frontend</span>
+### 🌐 <span style="font-size:1.3em; font-weight:bold;">Frontend</span>
 
 <img src="https://skillicons.dev/icons?i=angular" title="Angular" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=react" title="React" height="100" style="margin: 0 15px;" /> &nbsp;
