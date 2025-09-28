@@ -6,14 +6,6 @@
 
 ---
 
-## 🔥 À propos de moi
-- 🎯 Objectif : mettre à profit mes compétences en développement web & cloud et continuer à progresser.  
-- 💡 Intérêts : IA, applications web modernes, architectures distribuées.  
-- 🌍 Basée à **Tunis, Tunisie**.  
-- 📫 Contact : [ilef.kristou@etudiant-fst.utm.tn](mailto:ilef.kristou@etudiant-fst.utm.tn)  
-
----
-
 ## 🛠️ Compétences Techniques
 
 **Frontend:**  
@@ -46,9 +38,3 @@
 
 ---
 
-## 🌐 Me retrouver en ligne
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ilef-kristou-99374a302/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/ilef-kristou)  
-
----
-✨ *“Toujours apprendre, toujours innover.”*
