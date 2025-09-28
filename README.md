@@ -8,7 +8,7 @@
 
 ## 🛠️ Compétences Techniques
 
-**Langages :**  
+### 🟣 <span style="font-size:1.3em; font-weight:bold;">Langages</span>
 
 <img src="https://skillicons.dev/icons?i=java" title="Java" height="100"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=python" title="Python" height="100"/> &nbsp;
@@ -16,10 +16,10 @@
 <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="100"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=r" title="R" height="100"/>
 
-
 <br>
 
-**Frontend:**  
+### 🔵 <span style="font-size:1.3em; font-weight:bold;">Frontend</span>
+
 <img src="https://skillicons.dev/icons?i=angular" title="Angular" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=react" title="React" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="100" style="margin: 0 15px;" /> &nbsp;
@@ -29,20 +29,23 @@
 
 <br>
 
-**Backend:**  
+### 🟢 <span style="font-size:1.3em; font-weight:bold;">Backend</span>
+
 <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" height="100" style="margin: 0 15px;" /> &nbsp;
 
 <br>
 
-**Bases de données:**  
+### 🟡 <span style="font-size:1.3em; font-weight:bold;">Bases de données</span>
+
 <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="100" style="margin: 0 15px;" /> &nbsp;
 
 <br>
 
-**Outils & Méthodologies :**  
+### 🟠 <span style="font-size:1.3em; font-weight:bold;">Outils & Méthodologies</span>
+
 <img src="https://skillicons.dev/icons?i=git" title="Git" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="100" style="margin: 0 15px;" /> &nbsp;
