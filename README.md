@@ -58,7 +58,6 @@
 <img src="https://skillicons.dev/icons?i=nexus" title="Nexus" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=sonar" title="SonarQube" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=junit" title="JUnit" height="100" style="margin: 0 15px;" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=angular,react,html,css,js,ts,spring,laravel,node" title="Frontend & Backend" height="100" style="margin: 0 15px;" />
 
 
 ---
