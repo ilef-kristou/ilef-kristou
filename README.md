@@ -51,7 +51,15 @@
 <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=aws" title="AWS" height="100" style="margin: 0 15px;" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="100" style="margin: 0 15px;" /> &nbsp;
-<img src="https://tse3.mm.bing.net/th/id/OIP.DYNJuYOGc_lgPwwBc3z0iQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" title="Scrum" height="45" style="margin: 0 15px;" />
+<img src="https://tse3.mm.bing.net/th/id/OIP.DYNJuYOGc_lgPwwBc3z0iQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" title="Scrum" height="45" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" height="100" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" height="100" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" height="100" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=nexus" title="Nexus" height="100" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=sonar" title="SonarQube" height="100" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=junit" title="JUnit" height="100" style="margin: 0 15px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,js,ts,spring,laravel,node" title="Frontend & Backend" height="100" style="margin: 0 15px;" />
+
 
 ---
 
