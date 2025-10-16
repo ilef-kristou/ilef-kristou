@@ -8,16 +8,6 @@
 
 ## 🛠️ Compétences Techniques
 
-### 💻 Langages
-<img src="https://skillicons.dev/icons?i=java" title="Java" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=python" title="Python" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=c" title="C" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" title="C++" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=r" title="R" height="80"/>
-
-<br>
 
 ### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=angular" title="Angular" height="80"/> &nbsp;
@@ -32,6 +22,17 @@
 <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" height="80"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=nestjs" title="Nest.js" height="80"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="80"/> &nbsp;
+
+<br>
+
+### 💻 Langages
+<img src="https://skillicons.dev/icons?i=java" title="Java" height="80"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=python" title="Python" height="80"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=c" title="C" height="80"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" title="C++" height="80"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="80"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="80"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=r" title="R" height="80"/>
 
 <br>
 
