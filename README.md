@@ -40,25 +40,20 @@
 <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" height="80"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=nexus" title="Nexus" height="80"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=sonar" title="SonarQube" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=grafana" title="Grafana" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" height="80"/> &nbsp;
+**Autres outils DevOps :** Grafana, Prometheus
 
 ### 📊 Data & Machine Learning
-<img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=scikitlearn" title="Scikit-learn" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=numpy" title="NumPy" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=pandas" title="Pandas" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=matplotlib" title="Matplotlib" height="80"/> &nbsp;
+**Frameworks & bibliothèques :** TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib
 
-### 🛠️ Tools
+### 🛠️ Outils
 <img src="https://skillicons.dev/icons?i=git" title="Git" height="80"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="80"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="80"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=jira" title="JIRA" height="80"/> &nbsp;
+**Autres outils :** JIRA
 
-### 📋 Methodologies
-<img src="https://tse3.mm.bing.net/th/id/OIP.DYNJuYOGc_lgPwwBc3z0iQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" title="Scrum" height="45"/> &nbsp;
+### 📋 Méthodologies
+**Scrum**
 
 ---
 
