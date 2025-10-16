@@ -9,53 +9,39 @@
 ## 🛠️ Compétences Techniques
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=angular" title="Angular" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=react" title="React.js" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=html" title="HTML5" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=css" title="CSS3" height="80"/> &nbsp;
+| Angular | React.js | HTML5 | CSS3 |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=angular" height="70"/> | <img src="https://skillicons.dev/icons?i=react" height="70"/> | <img src="https://skillicons.dev/icons?i=html" height="70"/> | <img src="https://skillicons.dev/icons?i=css" height="70"/> |
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=laravel" title="Laravel" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=nestjs" title="Nest.js" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="80"/> &nbsp;
+| Spring Boot | Laravel | Nest.js | Node.js |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=spring" height="70"/> | <img src="https://skillicons.dev/icons?i=laravel" height="70"/> | <img src="https://skillicons.dev/icons?i=nestjs" height="70"/> | <img src="https://skillicons.dev/icons?i=nodejs" height="70"/> |
 
 ### 💻 Langages
-<img src="https://skillicons.dev/icons?i=java" title="Java" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=python" title="Python" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=c" title="C" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" title="C++" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=r" title="R" height="80"/> &nbsp;
+| Java | Python | C | C++ | JavaScript | TypeScript | R |
+|---|---|---|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=java" height="70"/> | <img src="https://skillicons.dev/icons?i=python" height="70"/> | <img src="https://skillicons.dev/icons?i=c" height="70"/> | <img src="https://skillicons.dev/icons?i=cpp" height="70"/> | <img src="https://skillicons.dev/icons?i=js" height="70"/> | <img src="https://skillicons.dev/icons?i=ts" height="70"/> | <img src="https://skillicons.dev/icons?i=r" height="70"/> |
 
 ### 🗄️ Bases de données
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="80"/> &nbsp;
+| MySQL | MongoDB |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=mysql" height="70"/> | <img src="https://skillicons.dev/icons?i=mongodb" height="70"/> |
 
 ### ☁️ Cloud & DevOps
-- AWS
-- Docker
-- Jenkins
-- Kubernetes
-- Nexus
-- SonarQube
-- Grafana
-- Prometheus
+| AWS | Docker | Jenkins | Kubernetes | Nexus | SonarQube | Grafana | Prometheus |
+|---|---|---|---|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=aws" height="70"/> | <img src="https://skillicons.dev/icons?i=docker" height="70"/> | <img src="https://skillicons.dev/icons?i=jenkins" height="70"/> | <img src="https://skillicons.dev/icons?i=kubernetes" height="70"/> | <img src="https://skillicons.dev/icons?i=nexus" height="70"/> | <img src="https://skillicons.dev/icons?i=sonar" height="70"/> | Grafana | Prometheus |
 
 ### 📊 Data & Machine Learning
-- TensorFlow
-- Scikit-learn
-- NumPy
-- Pandas
-- Matplotlib
+| TensorFlow | Scikit-learn | NumPy | Pandas | Matplotlib |
+|---|---|---|---|---|
+| TensorFlow | Scikit-learn | NumPy | Pandas | Matplotlib |
 
 ### 🛠️ Outils
-- Git
-- GitHub
-- GitLab
-- Postman
-- JIRA
+| Git | GitHub | GitLab | Postman | JIRA |
+|---|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=git" height="70"/> | <img src="https://skillicons.dev/icons?i=github" height="70"/> | <img src="https://skillicons.dev/icons?i=gitlab" height="70"/> | <img src="https://skillicons.dev/icons?i=postman" height="70"/> | JIRA |
 
 ### 📋 Méthodologies
 - Scrum
@@ -64,6 +50,6 @@
 
 ## 🌐 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilef-kristou-99374a302/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilef.kristou@etudiant-fst.utm.tn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilef-kristou-99374a302/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilef.kristou@etudiant-fst.utm.tn)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=appveyor&logoColor=white)](https://ilef-kristou.github.io/ilef-kristou-portfolio/)
