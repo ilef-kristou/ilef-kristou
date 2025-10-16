@@ -31,17 +31,17 @@
 ### ☁️ Cloud & DevOps
 | AWS | Docker | Jenkins | Kubernetes | Nexus | SonarQube | Grafana | Prometheus |
 |---|---|---|---|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=aws" height="70"/> | <img src="https://skillicons.dev/icons?i=docker" height="70"/> | <img src="https://skillicons.dev/icons?i=jenkins" height="70"/> | <img src="https://skillicons.dev/icons?i=kubernetes" height="70"/> | <img src="https://skillicons.dev/icons?i=nexus" height="70"/> | <img src="https://skillicons.dev/icons?i=sonar" height="70"/> | Grafana | Prometheus |
+| <img src="https://skillicons.dev/icons?i=aws" height="70"/> | <img src="https://skillicons.dev/icons?i=docker" height="70"/> | <img src="https://skillicons.dev/icons?i=jenkins" height="70"/> | <img src="https://skillicons.dev/icons?i=kubernetes" height="70"/> | <img src="https://skillicons.dev/icons?i=nexus" height="70"/> | <img src="https://skillicons.dev/icons?i=sonar" height="70"/> | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-FF6D00?style=for-the-badge&logo=prometheus&logoColor=white) |
 
 ### 📊 Data & Machine Learning
 | TensorFlow | Scikit-learn | NumPy | Pandas | Matplotlib |
 |---|---|---|---|---|
-| TensorFlow | Scikit-learn | NumPy | Pandas | Matplotlib |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-F37626?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) |
 
 ### 🛠️ Outils
 | Git | GitHub | GitLab | Postman | JIRA |
 |---|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=git" height="70"/> | <img src="https://skillicons.dev/icons?i=github" height="70"/> | <img src="https://skillicons.dev/icons?i=gitlab" height="70"/> | <img src="https://skillicons.dev/icons?i=postman" height="70"/> | JIRA |
+| <img src="https://skillicons.dev/icons?i=git" height="70"/> | <img src="https://skillicons.dev/icons?i=github" height="70"/> | <img src="https://skillicons.dev/icons?i=gitlab" height="70"/> | <img src="https://skillicons.dev/icons?i=postman" height="70"/> | ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 
 ### 📋 Méthodologies
 - Scrum
