@@ -34,26 +34,31 @@
 <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="80"/> &nbsp;
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws" title="AWS" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=docker" title="Docker" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=nexus" title="Nexus" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=sonar" title="SonarQube" height="80"/> &nbsp;
-**Autres outils DevOps :** Grafana, Prometheus
+- AWS
+- Docker
+- Jenkins
+- Kubernetes
+- Nexus
+- SonarQube
+- Grafana
+- Prometheus
 
 ### 📊 Data & Machine Learning
-**Frameworks & bibliothèques :** TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib
+- TensorFlow
+- Scikit-learn
+- NumPy
+- Pandas
+- Matplotlib
 
 ### 🛠️ Outils
-<img src="https://skillicons.dev/icons?i=git" title="Git" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="80"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=postman" title="Postman" height="80"/> &nbsp;
-**Autres outils :** JIRA
+- Git
+- GitHub
+- GitLab
+- Postman
+- JIRA
 
 ### 📋 Méthodologies
-**Scrum**
+- Scrum
 
 ---
 
