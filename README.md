@@ -39,11 +39,12 @@
 
 ### 📊 Data & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F37626?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F37626?style=for-the-badge&logo=tensorflow&logoColor=white) &nbsp;
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge) &nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) &nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) &nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
 
 ### 🛠️ Outils
 | Git | GitHub | GitLab | Postman | JIRA |
