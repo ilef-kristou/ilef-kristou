@@ -38,9 +38,12 @@
 
 
 ### 📊 Data & Machine Learning
-| TensorFlow | Scikit-learn | NumPy | Pandas | Matplotlib |
-|---|---|---|---|---|
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-F37626?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) |
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F37626?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### 🛠️ Outils
 | Git | GitHub | GitLab | Postman | JIRA |
