@@ -31,7 +31,8 @@
 ### ☁️ Cloud & DevOps
 | AWS | Docker | Jenkins | Kubernetes | Nexus | SonarQube | Grafana | Prometheus |
 |---|---|---|---|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=aws" height="70"/> | <img src="https://skillicons.dev/icons?i=docker" height="70"/> | <img src="https://skillicons.dev/icons?i=jenkins" height="70"/> | <img src="https://skillicons.dev/icons?i=kubernetes" height="70"/> | <img src="https://skillicons.dev/icons?i=nexus" height="70"/> | <img src="https://skillicons.dev/icons?i=sonar" height="70"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/grafana.svg" height="70"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prometheus.svg" height="70"/> |
+| <img src="https://skillicons.dev/icons?i=aws" height="50"/> | <img src="https://skillicons.dev/icons?i=docker" height="50"/> | <img src="https://skillicons.dev/icons?i=jenkins" height="50"/> | <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/> | <img src="https://skillicons.dev/icons?i=nexus" height="50"/> | <img src="https://skillicons.dev/icons?i=sonar" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/grafana.svg" height="50" style="color:#F46800;"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prometheus.svg" height="50" style="color:#E6522C;"/> |
+
 
 
 ### 📊 Data & Machine Learning
