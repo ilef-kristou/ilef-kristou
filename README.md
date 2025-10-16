@@ -58,6 +58,7 @@
 
 ## 🌐 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilef-kristou-99374a302/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilef.kristou@etudiant-fst.utm.tn)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilef-kristou-99374a302/) &nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilef.kristou@etudiant-fst.utm.tn) &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=appveyor&logoColor=white)](https://ilef-kristou.github.io/ilef-kristou-portfolio/)
+
