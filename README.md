@@ -1,8 +1,8 @@
-# 👋 Bonjour, je suis Ilef Kristou  
+# 👋 Hi, I'm Ilef Kristou
 
-🎓 Étudiante en dernière année du cycle ingénieur en **Génie Logiciel** à la Faculté des Sciences de Tunis.  
-💻 Passionnée par le **développement Full-Stack**, le **Cloud** et l'**IA**.  
-🚀 Curieuse, motivée et toujours à la recherche d'opportunités professionnelles pour progresser et contribuer à des projets innovants.  
+🎓 Software Engineering Graduate from the Faculty of Sciences of Tunis.
+💻 Passionate about Full-Stack Development, Cloud, DevOps, and AI.
+🚀 Curious, motivated, and always looking for professional opportunities to grow, contribute, and build innovative software solutions.
 
 ---
 
