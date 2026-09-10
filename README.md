@@ -33,7 +33,7 @@
 ### ☁️ Cloud & DevOps
 | AWS | Docker | Jenkins | Kubernetes | Nexus | SonarQube | Trivy | Grafana | Prometheus |
 |---|---|---|---|---|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=aws" height="50"/> | <img src="https://skillicons.dev/icons?i=docker" height="50"/> | <img src="https://skillicons.dev/icons?i=jenkins" height="50"/> | <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sonatype.svg" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sonarqube.svg" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/trivy.svg" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/grafana.svg" height="50" style="color:#F46800;"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prometheus.svg" height="50" style="color:#E6522C;"/> |
+| <img src="https://skillicons.dev/icons?i=aws" height="50"/> | <img src="https://skillicons.dev/icons?i=docker" height="50"/> | <img src="https://skillicons.dev/icons?i=jenkins" height="50"/> | <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/> | <img src="https://cdn.simpleicons.org/sonatype" height="50"/> | <img src="https://cdn.simpleicons.org/sonarqube" height="50"/> | <img src="https://cdn.simpleicons.org/trivy" height="50"/> | <img src="https://cdn.simpleicons.org/grafana" height="50"/> | <img src="https://cdn.simpleicons.org/prometheus" height="50"/> |
 
 
 
