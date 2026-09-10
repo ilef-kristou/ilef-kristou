@@ -51,7 +51,7 @@
 ### 🛠️ Outils
 | Git | GitHub | GitLab | Postman | n8n | JIRA |
 |---|---|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=git" height="70"/> | <img src="https://skillicons.dev/icons?i=github" height="70"/> | <img src="https://skillicons.dev/icons?i=gitlab" height="70"/> | <img src="https://skillicons.dev/icons?i=postman" height="70"/> | <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="70"/> ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+| <img src="https://skillicons.dev/icons?i=git" height="70"/> | <img src="https://skillicons.dev/icons?i=github" height="70"/> | <img src="https://skillicons.dev/icons?i=gitlab" height="70"/> | <img src="https://skillicons.dev/icons?i=postman" height="70"/> | <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="70"/> | ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 
 ### 📋 Méthodologies
 - Scrum
