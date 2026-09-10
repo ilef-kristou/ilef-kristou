@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Ilef Kristou
 
 🎓 Software Engineering Graduate from the Faculty of Sciences of Tunis.
+
 💻 Passionate about Full-Stack Development, Cloud, DevOps, and AI.
+
 🚀 Curious, motivated, and always looking for professional opportunities to grow, contribute, and build innovative software solutions.
 
 ---
