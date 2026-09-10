@@ -25,10 +25,10 @@
 |---|---|---|---|---|---|---|
 | <img src="https://skillicons.dev/icons?i=java" height="70"/> | <img src="https://skillicons.dev/icons?i=python" height="70"/> | <img src="https://skillicons.dev/icons?i=c" height="70"/> | <img src="https://skillicons.dev/icons?i=cpp" height="70"/> | <img src="https://skillicons.dev/icons?i=js" height="70"/> | <img src="https://skillicons.dev/icons?i=ts" height="70"/> | <img src="https://skillicons.dev/icons?i=r" height="70"/> |
 
-### 🗄️ Bases de données
-| MySQL | MongoDB |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=mysql" height="70"/> | <img src="https://skillicons.dev/icons?i=mongodb" height="70"/> |
+### 🗄️ Databases
+| MySQL | PostgreSQL | SQL Server | MongoDB |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=mysql" height="70"/> | <img src="https://skillicons.dev/icons?i=postgresql" height="70"/> | <img src="https://skillicons.dev/icons?i=mssql" height="70"/> | <img src="https://skillicons.dev/icons?i=mongodb" height="70"/> |
 
 ### ☁️ Cloud & DevOps
 | AWS | Docker | Jenkins | Kubernetes | Grafana | Prometheus |
