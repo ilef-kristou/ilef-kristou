@@ -28,7 +28,7 @@
 ### 🗄️ Databases
 | MySQL | PostgreSQL | SQL Server | MongoDB |
 |---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=mysql" height="70"/> | <img src="https://skillicons.dev/icons?i=mongodb" height="70"/> <img src="https://skillicons.dev/icons?i=postgresql" height="70"/> | 🗄️ |
+| <img src="https://skillicons.dev/icons?i=mysql" height="70"/> | <img src="https://skillicons.dev/icons?i=postgresql" height="70"/> | <img src="https://skillicons.dev/icons?i=mongodb" height="70"/> |
 
 ### ☁️ Cloud & DevOps
 | AWS | Docker | Jenkins | Kubernetes | Grafana | Prometheus |
