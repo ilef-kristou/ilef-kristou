@@ -11,9 +11,9 @@
 ## 🛠️ Compétences Techniques
 
 ### 🌐 Frontend
-| Angular | React.js | HTML5 | CSS3 |
-|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=angular" height="70"/> | <img src="https://skillicons.dev/icons?i=react" height="70"/> | <img src="https://skillicons.dev/icons?i=html" height="70"/> | <img src="https://skillicons.dev/icons?i=css" height="70"/> |
+| Angular | React.js | Next.js | HTML5 | CSS3 |
+|---|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=angular" height="70"/> | <img src="https://skillicons.dev/icons?i=react" height="70"/> | <img src="https://skillicons.dev/icons?i=nextjs" height="70"/> | <img src="https://skillicons.dev/icons?i=html" height="70"/> | <img src="https://skillicons.dev/icons?i=css" height="70"/> |
 
 ### ⚙️ Backend
 | Spring Boot | Laravel | Nest.js | Node.js |
